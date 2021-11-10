@@ -9,7 +9,7 @@ I'm Ruslan, final-year Master student at RWTH Aachen University (Germany) majori
   * [scona](https://github.com/WhitakerLab/scona) - 😎 Toolkit to analyse brain networks (MRI data) using python. Contributed during Google Summer of Code (GSoC) program. 
   * [data2text-bioleaflets](https://github.com/bayer-science-for-a-better-life/data2text-bioleaflets) - 🔎 Automatic biomedical text generation from structured data. Developed during research NLP internship at Bayer Decision Science team.
 
-- 👯 Right now I’m actively looking for Research/Applied Science/Machine Learning/Data Science internship opportunities.
+<!-- - 👯 Right now I’m actively looking for Research/Applied Science/Machine Learning/Data Science internship opportunities. -->
 - 📫 Feel free to reach me though my Linkedin profile!
 
 <!--
