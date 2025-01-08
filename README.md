@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruslanyermakov/)
 
-I'm Ruslan, final-year Master student at RWTH Aachen University (Germany) majoring in Data Science. 
+I'm Ruslan, shaping the future by delivering AI-powered applications that solve real problems and drive innovation into production. 
 
 
 - 👨‍💻 I like open-source. Here are some of my projects that I contributed to:
